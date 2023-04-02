@@ -20,6 +20,8 @@
   <img align="center" alt="Html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div><br/>
 
+##Ambiente de trabalho
+<img align="center" alt="Html5" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 Apaixonado por tecnologia, e ainda mais por tecnologias descetralizadas! Desenvolvimento 
 
 Estudante de Eng. de Software
