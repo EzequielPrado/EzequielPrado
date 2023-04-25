@@ -7,7 +7,7 @@
 
 
 ![Ezequiel GitHub stats](https://github-readme-stats.vercel.app/api?username=EzequielPrado&show_icons=true&theme=radical)
-![Ezequiel GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielPrado&theme=blue-green)
+
 
 ## Tecnologias que uso no meu dia a dia
 
